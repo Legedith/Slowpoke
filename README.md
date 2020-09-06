@@ -1,6 +1,6 @@
 # Slowpoke
 ## Usage
-> python3 slowpoke.py
+> $python3 slowpoke.py
 
 ## Inspiration
 Schools and colleges are re-opening "Virtually" all around the globe. This means that you only need a stable internet connection and a device to stream to attend your classes.
