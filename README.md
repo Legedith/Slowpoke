@@ -1,4 +1,9 @@
 # Slowpoke
+
+## Why
+If you keep running out of data because of online lectures or because of Netflix consuming too much of your data while streaming, use slowpoke to put brakes on your data consumption. It simulates a slow internet connection so Google meet, zoom and Netflix switches from HD to SD hence reducing your data consumption (and quality). 
+
+
 ## Usage
 > $ python3 slowpoke.py
 
