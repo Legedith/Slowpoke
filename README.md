@@ -9,6 +9,11 @@ If you keep running out of data because of online lectures or because of Netflix
 
 _(300 mb/hour is a good speed limit for Google Meet and Zoom)_
 
+## Demo
+Click on the image below to see it in action
+
+[![Demo](https://img.youtube.com/vi/xe7A2ElQ1lc/hqdefault.jpg)](https://www.youtube.com/watch?v=xe7A2ElQ1lc)
+
 ## Inspiration
 Schools and colleges are re-opening "Virtually" all around the globe. This means that you only need a stable internet connection and a device to stream to attend your classes.
 
